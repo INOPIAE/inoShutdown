@@ -5,7 +5,7 @@ Public Class FrmShutdown
         If StartDelete() = False Then
             Exit Sub
         End If
-        System.Diagnostics.Process.Start("shutdown", "-s -t 00") 'Herunterfahren
+        System.Diagnostics.Process.Start("shutdown", "-s -t 00")
         Me.Close()
     End Sub
 
@@ -13,7 +13,7 @@ Public Class FrmShutdown
         If StartDelete() = False Then
             Exit Sub
         End If
-        System.Diagnostics.Process.Start("shutdown", "-l -t 00") 'Abmelden
+        System.Diagnostics.Process.Start("shutdown", "-l")
         Me.Close()
     End Sub
 
@@ -21,7 +21,7 @@ Public Class FrmShutdown
         If StartDelete() = False Then
             Exit Sub
         End If
-        System.Diagnostics.Process.Start("shutdown", "-r -t 00") 'Neu starten
+        System.Diagnostics.Process.Start("shutdown", "-r -t 00")
         Me.Close()
     End Sub
 
