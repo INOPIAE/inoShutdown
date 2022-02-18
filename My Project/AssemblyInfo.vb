@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("inoShutdown")>
-<Assembly: AssemblyDescription("Tool zum datenschutzkonformrn Abmelden von Windows")>
+<Assembly: AssemblyDescription("Tool zum datenschutzkonformen Abmelden von Windows. Das Programm ist unter der GPLv3 veröffentlicht. Der aktuelle SourceCode ist unter https://github.com/INOPIAE/inoShutdown verfügbar.")>
 <Assembly: AssemblyCompany("INOPIAE")>
 <Assembly: AssemblyProduct("inoShutdown")>
 <Assembly: AssemblyCopyright("Copyright ©  2022")>

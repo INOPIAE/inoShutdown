@@ -8,7 +8,7 @@
         Else
             ApplicationTitle = System.IO.Path.GetFileNameWithoutExtension(My.Application.Info.AssemblyName)
         End If
-        Me.Text = String.Format("About {0}", ApplicationTitle)
+        Me.Text = String.Format("Info zu {0}", ApplicationTitle)
         ' Initialize all of the text displayed on the About Box.
         ' TODO: Customize the application's assembly information in the "Application" pane of the project 
         '    properties dialog (under the "Project" menu).
