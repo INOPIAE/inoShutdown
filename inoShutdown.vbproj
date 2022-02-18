@@ -132,6 +132,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\kugel.gif" />
+    <Content Include="deploy\inoShutdown.exe" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>powershell Compress-Archive -Path "$(TargetPath)" -DestinationPath "$(ProjectDir)deploy\inoShutdown.zip" -Force</PostBuildEvent>
+  </PropertyGroup>
 </Project>

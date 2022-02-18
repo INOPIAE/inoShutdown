@@ -2,7 +2,15 @@
 
 Das Programm inoShutdown.exe stellt dem Anwender die Möglichkeit zur Verfügung vor dem Beenden von Windows ausgewählte Ordner zu löschen.
 
-Diese Funktionalität ist sinnvoll um beim Nutzen eines privaten Rechners mit Unternehmensdaten diese beim Beeenden einer Windowssitzung wieder vom eigenen Rechern zu löschen. Dies gilt insbesondere für den Ordner Downloads. Die gelöschten Dateien sind auch nicht im Papierkorb wieder zu finden.
+Diese Funktionalität ist sinnvoll, wenn auf einem privaten Rechner Unternehmsdaten z.B. über Sharepoint genutzt werden, um diese Daten beim Beeenden einer Windowssitzung wieder vom eigenen Rechern zu löschen.
+
+Dies gilt insbesondere für den Ordner Downloads. Die gelöschten Dateien sind auch nicht im Papierkorb wieder zu finden.
+
+## Installation
+
+Zur Installation die Zip-Datei inoShutdown.zip aus dem Ordner deploy downloaden und entpacken.
+
+Dann kann das Programm inoSutdown genutzt werden.
 
 ## Nutzung
 
