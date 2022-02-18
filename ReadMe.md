@@ -8,9 +8,9 @@ Dies gilt insbesondere für den Ordner Downloads. Die gelöschten Dateien sind a
 
 ## Installation
 
-Zur Installation die Zip-Datei inoShutdown.zip aus dem Ordner deploy downloaden und entpacken.
+Zur Installation die Zip-Datei [inoShutdown.zip](../deploy/inoShutdown.zip) aus dem Ordner deploy downloaden und entpacken.
 
-Dann kann das Programm inoSutdown genutzt werden.
+Dann kann das Programm inoShutdown.exe genutzt werden.
 
 ## Nutzung
 
