@@ -22,6 +22,7 @@ Partial Class FrmShutdown
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(FrmShutdown))
         Me.BtnShutdown = New System.Windows.Forms.Button()
         Me.BtnLogout = New System.Windows.Forms.Button()
         Me.BtnRestart = New System.Windows.Forms.Button()
@@ -139,6 +140,7 @@ Partial Class FrmShutdown
         Me.Controls.Add(Me.BtnDelete)
         Me.Controls.Add(Me.BtnAdd)
         Me.Controls.Add(Me.BtnShutdown)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "FrmShutdown"
         Me.Text = "Ordner leeren beim Beenden von Windows"
         Me.ResumeLayout(False)

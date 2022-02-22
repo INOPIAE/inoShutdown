@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAMMOAADDDgAAAAAAAAAA
+        AADX1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19TR/9fV0v/X1dL/19XS/9bU0f/W1NH/19XS/9fV
+        0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/W1NH/19XS/9nY1v/W09D/19XS/9jW1P/Z2Nb/2tnW/9fV
+        0v/W1NH/19XS/9fV0v/X1dL/19XS/9fV0v/W1NH/3NvZ/9jX1P/OysT/3d3c/9bU0P/U0c3/z8rE/83I
+        wv/a2Nb/2tnW/9bU0f/X1dL/19XS/9fV0v/W1NH/2dfV/8/KxP96Vzv/Wi0J/6uajP/t8/b/l35q/1cp
+        BP9eMxD/d1Q6/9bT0P/X1dL/19XR/9fV0v/X1dL/1tPQ/93d3P+zpZn/qJWF/9nY1f91UTT/tqic/5N6
+        Zv+EZU7/4OHe/2c+Jf+SeGT/4+Xl/9XSzv/X1dL/19XS/9fV0v/W1NH/29rY/+Xo6f/V0s7/dlI1/7ao
+        nP+Ue2X/iWtT//X9//+PdF7/im1X/+Tn5//V0s7/19XS/9fV0v/X1dL/1dLP/+Lk5P+sm4z/WiwI/6qY
+        if/v9fn/iWxV/4lsVP/v9vn/h2lR/41xWv/k5uf/1dLO/9fV0v/X1dL/1dPP/9/g3/+pl4f/eFY5/9XS
+        zv/j5eX/6Ozt/4tuV/+Kblb/9f7//45yXv+GaFf/5ejn/9TSzv/X1dL/19XS/9XTz//f4N//qZaH/3hV
+        OP/Z2NX/pZKB/8G3rf+Rd2P/hGZP/97e2/9vSTH/rJqO/9/g3//W09D/19XS/9fV0v/X1dL/1dLO/+Pl
+        5f+unY//Wi0J/3dUN//Z19X/moNw/1coAv9eMg//eVc9/97e3P/W1NH/19XS/9fV0v/X1dL/19XS/9fV
+        0v/V08//3d3c/87KxP/Y19T/3Nza/9PPy//PysX/zcjC/9nY1f/Y1tP/19XS/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/19XS/9bT0P/Z2Nb/19XS/9bU0f/Y19T/2djW/9rZ1v/X1dL/1tTR/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/19XS/9fV0v/X1dL/19TR/9fV0v/X1dL/19XS/9bU0f/W1NH/19XS/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV0v/X1dL/19XS/9fV
+        0v/X1dL/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>
